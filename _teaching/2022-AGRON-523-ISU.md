@@ -1,7 +1,7 @@
 ---
 title: 'Simulations in Plant Breeding: An emphasis on AlphaSimR'
 date: 2022-07-02
-permalink: /teaching/2022/02/AlphaSimR/
+permalink: /teaching/
 tags:
   - R
   - simulation
