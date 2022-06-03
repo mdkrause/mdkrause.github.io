@@ -10,6 +10,8 @@ toc: true
 
 ### Lectures
 
-- Spring 2022: [Simulations in Plant Breeding: An emphasis on AlphaSimR](https://github.com/mdkrause/mdkrause.github.io/edit/master/_teaching/2022-AGRON-528-ISU.md)
+- Spring 2022: [Simulations in Plant Breeding: An emphasis on AlphaSimR](https://github.com/mdkrause/mdkrause.github.io/blob/master/_teaching/2022-AGRON-523-ISU.md)
 
-### Workshop and Talks 
+### Workshop
+
+### Talks
