@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /mdk/
+permalink: /Who am I?/
 author_profile: true
 redirect_from:
   - /mdk
