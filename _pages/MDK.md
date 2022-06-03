@@ -1,11 +1,9 @@
 ---
 layout: archive
-permalink: /Who am I?/
+permalink: /mdk/
 author_profile: true
 redirect_from:
   - /mdk
 ---
-
-{% include base_path %}
 
 MDK...
