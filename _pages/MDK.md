@@ -9,3 +9,5 @@ redirect_from:
 I am still working on this one... but in the meantime:
 
 [![A História da Minha Família](https://github.com/mdkrause/mdkrause.github.io/blob/master/images/family.png)](https://www.youtube.com/watch?v=PiAtQV9Zdr8&t=62s "A História da Minha Família")
+
+[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
