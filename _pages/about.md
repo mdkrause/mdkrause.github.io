@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi all! 
+Hi all! Welcome to my website hosted on Github. 
 
-Welcome to my website hosted on Github. I am still learning how to build it... but in summary, I will be posting recent research I’ve been working with, some talks and lectures, and R programming tips focused on plant breeding & quantitative genetics.
+My name is Matheus Dalsente Krause and I am a Ph.D. Student in Plant Breeding with Statistics minor at Iowa State University. I am still learning how to build it... but in summary, I will be posting recent research I’ve been working with, some talks and lectures, and R programming tips focused on plant breeding & quantitative genetics.
 
 My CV can be viewed **[here](https://github.com/mdkrause/cvLatex/blob/main/mdkrause-cv.pdf)**.
 
