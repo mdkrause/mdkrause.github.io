@@ -1,5 +1,5 @@
 ---
-title: 'R Parallel with Genomic Prediction Application'
+title: 'R Parallel for Routine Operations'
 date: 2022-04-03
 permalink: /posts/2022/04/RParallel/
 tags:
