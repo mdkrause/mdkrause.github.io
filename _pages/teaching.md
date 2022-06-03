@@ -10,7 +10,7 @@ toc: true
 
 ### Lectures
 
-- Spring 2022: [Simulations in Plant Breeding: An emphasis on AlphaSimR](https://github.com/mdkrause/mdkrause.github.io/blob/master/_teaching/AlphaSimR_2022.pdf)
+- Spring 2022: [Simulations in Plant Breeding: An emphasis on AlphaSimR](https://raw.githubusercontent.com/mdkrause/mdkrause.github.io/master/_teaching/AlphaSimR_2022.pdf)
 
 ### Workshop
 
