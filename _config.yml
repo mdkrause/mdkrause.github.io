@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matheus Dalsente Krause"
+  name             : #" "
   avatar           : "bio-mdk.jpg"
   bio              : #" "
   location         : "Ames - Iowa, USA"
