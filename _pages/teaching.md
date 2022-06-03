@@ -1,7 +1,10 @@
 ---
+layout: archive
 permalink: /teaching/
 title: Teaching
 description: "Courses Material"
+redirect_from:
+  - /teaching
 toc: true
 ---
 
