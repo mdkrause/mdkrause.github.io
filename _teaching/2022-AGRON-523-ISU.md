@@ -1,6 +1,6 @@
 ---
-title: 'R Parallel for Routine Operations'
-date: 2022-04-03
+title: 'Simulations in Plant Breeding: An emphasis on AlphaSimR'
+date: 2022-07-02
 permalink: /teaching/2022/02/AlphaSimR/
 tags:
   - R
