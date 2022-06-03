@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name            : "Matheus Dalsente Krause"
-  avatar           : "/assets/pics/bio-mdk.jpg"
+  name             : "Matheus Dalsente Krause"
+  avatar           : "bio-mdk.jpg"
   bio              : "Hi all! Welcome to my website hosted on Github. I will be posting recent research I’ve been working with, some talks and lectures, and R programming tips focused on plant breeding & quantitative genetics."
   location         : "Ames - Iowa, USA"
   email            : "krause.d.matheus@gmail.com"
