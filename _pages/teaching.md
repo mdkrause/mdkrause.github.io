@@ -16,4 +16,4 @@ toc: true
 
 ### Talks
 
-- Plant and Animal Genome 2023: [From PDF Files to Biological Insights into Soybean Breeding: An Example of How Recovered Historical Yield Data Can be Valuable](https://raw.githubusercontent.com/mdkrause/mdkrause.github.io/master/_teaching/PAG23.pdf)
+- 2023, Plant \& Animal Genome Conference: [From PDF Files to Biological Insights into Soybean Breeding: An Example of How Recovered Historical Yield Data Can be Valuable](https://raw.githubusercontent.com/mdkrause/mdkrause.github.io/master/_teaching/PAG23.pdf)
