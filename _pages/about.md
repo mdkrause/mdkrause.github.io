@@ -14,4 +14,4 @@ My name is Matheus Dalsente Krause and I am a Ph.D. Candidate in Plant Breeding 
 
 If you are interested in my academic publications, please check my *[Google Scholar profile](https://scholar.google.com/citations?user=SFA-axUAAAAJ&hl=en)*. My CV can be downloaded **[here](https://raw.githubusercontent.com/mdkrause/cvLatex/main/mdkrause_cv_openfont.pdf)**.
 
-Feel free to get in touch on any of my social media! 
+Feel free to get in touch on any of my social media!
