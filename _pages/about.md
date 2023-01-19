@@ -16,4 +16,4 @@ Please check my *[Google Scholar profile](https://scholar.google.com/citations?u
 
 For additional information, my CV can be downloaded **[here](https://raw.githubusercontent.com/mdkrause/cvLatex/main/mdkrause_cv_openfont.pdf)**.
 
-Feel free to get in touch on any of my social media!
+Feel free to get in touch on any of my social media! 
