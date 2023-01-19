@@ -43,6 +43,5 @@ system.time(
 )
 stopCluster(cl)
 ```
-
 LOADING...
 
