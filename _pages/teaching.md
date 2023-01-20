@@ -14,7 +14,7 @@ toc: true
 
 ### Workshop
 
-- 2017, University of São Paulo: [Introduction to $\textttt{R}$ programming](https://github.com/mdkrause/Workshop_genetica_esalq)
+- 2017, University of São Paulo: [Introduction to R programming](https://github.com/mdkrause/Workshop_genetica_esalq)
 
 ### Talks
 
