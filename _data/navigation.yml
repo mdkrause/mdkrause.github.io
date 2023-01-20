@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Posts"
-    url: /year-archive/
  
  # - title: "Publications"
  #    url: /publications/
@@ -12,6 +10,9 @@ main:
   - title: "Teaching"
     url: /teaching/  
     
+  - title: "Posts"
+    url: /year-archive/
+     
   - title: "About me"
     url: /mdk/  
     
